@@ -1,0 +1,15 @@
+
+##Araya Messa
+## Homework BLT3
+## Semister I Self Rating Skills 
+
+a)Computer programming(3)
+b)Math(5)
+c)Statistics(4)
+d)Machine learning(2)
+e)Domain expertise (and give the domain(s))(1)
+f)Communication and presentation skills(3)
+g)Data visualization(2)
+
+
+##Note: I feel and expect to improve upon most of those courses that are rated 3 or less in this course and expect to improve those that are rated 4 or less in the whole Data Science Program.  
